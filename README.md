@@ -1,3 +1,5 @@
+[RYMD-MaxMusic - Bring Back Dislikes On iOS YouTube Music and adds an auto skip feature, esclusive of MaxMusic](https://github.com/Mark02-2012/RYMD-MaxMusic)
+
 [YTMU+Latest]: https://github.com/Mark02-2012/MaxMusic/releases/download/MaxMusic_9.37.2_2.4.1_(93)/MaxMusic_2.4.1_9.37.2.ipa
 
 [YTMUlatest]: https://github.com/Mark02-2012/MaxMusic/releases/download/YTMU_9.37.2_2.4.1_(95)/YTMusicUltimate_2.4.1_9.37.2.ipa
